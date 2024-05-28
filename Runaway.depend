@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1716907407 source:c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"runaway.h"
+	"map.h"
+	"ui.h"
+
+1716906363 c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\runaway.h
+
+1716906381 c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\map.h
+
+1716905359 source:c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"map.h"
+	"runaway.h"
+
+1716905998 c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\ui.h
+	"map.h"
+
+1716905914 source:c:\users\supev\documents\eoq\alura\formacao em c\c recursos avancados da linguagem\runaway\ui.c
+	<stdio.h>
+	<stdlib.h>
+	"map.h"
+	"ui.h"
+
