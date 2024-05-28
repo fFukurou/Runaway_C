@@ -9,3 +9,4 @@ Rendition of the classic Pac-Man game.
 
 -Try to blow up both of them. You only get one shot  
 
+![Demo Screenshot](https://github.com/fFukurou/Runaway_C/assets/116623472/58a85265-368e-44a3-b427-58f03c3fb85a)
